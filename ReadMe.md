@@ -89,3 +89,5 @@ Safari: 13+
 Edge: 80+
 
 Local Storage is supported in all modern browsers.
+
+Vercel Deployment: https://24004-p1-ecommerce-ngoc-nghia-6i3h.vercel.app/ 
